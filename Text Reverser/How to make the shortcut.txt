@@ -2,3 +2,4 @@ Find command Prompt in the File Explorer
 Create a Shortcut
 add this to the end of the file path
 " /k cd C:\Windows\Text Reverser & color f0 & title Text Reverser & java -jar Reverser.jar"
+Set the icon to the .ico file in this folder
