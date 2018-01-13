@@ -1,0 +1,5 @@
+Find command prompt in the file explorer
+Create a shortcut
+add this to the end of the file path
+" /k cd C:\Windows\Encoder Decoder & color f0 & title Encode and Decode & java -jar encodeDecode.jar"
+Set the .ico file in this folder as the icon
