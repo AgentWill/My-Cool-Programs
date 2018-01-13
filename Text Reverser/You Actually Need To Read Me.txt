@@ -1,0 +1,1 @@
+Make sure this folder is in the Windows folder on the C: drive or it will not work.
