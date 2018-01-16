@@ -1,1 +1,0 @@
-When the create cipher button is pressed, it will open a text tab. This is an error that will be fixed, ignore it for now.
