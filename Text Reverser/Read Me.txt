@@ -1,4 +1,6 @@
 In this file is a working program, a jpg needed for the program (KEEP THEM IN THE SAME FOLDER),
 and an icon file if you wish to create a shortcut.
 
+When it opens, you can reverse the text with enter.
+
 Cheers!

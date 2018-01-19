@@ -1,4 +1,7 @@
 In this file is a working program, a jpg needed for the program (KEEP THEM IN THE SAME FOLDER),
 and an icon file if you wish to create a shortcut.
 
+When it opens, you can activate the buttons with enter when their respective text fields are being edited.
+Press escape to go back to the create cipher text field.
+
 Cheers!
