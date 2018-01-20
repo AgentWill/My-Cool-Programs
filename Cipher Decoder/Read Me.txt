@@ -1,0 +1,9 @@
+In this file is a working program, a jpg needed for the program (KEEP THEM IN THE SAME FOLDER),
+and an icon file if you wish to create a shortcut.
+
+When it opens, you can press enter to decode the encoded statement.
+
+What this does is it does a frequency analysis and replaces the most used letters with the most used English letters.
+Any extra work, such as educated guesses, is up to you.
+
+Cheers!
